@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings! 👋 Hi, I’m @YashBhalodiya, a tech enthusiast passionate about web development and exploring the latest innovations in technology.
+Greetings! 👋 Hi, I’m @YashBhalodiya, passionate about crafting smooth, modern mobile apps with React Native, Flutter, and Android. Always exploring new tools & tech in mobile development.
 
 
 ## 🌐 Socials:
