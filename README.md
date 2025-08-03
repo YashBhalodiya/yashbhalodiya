@@ -1,5 +1,8 @@
 # 💫 About Me:
-Greetings! 👋 Hi, I’m @YashBhalodiya, passionate about crafting smooth, modern mobile apps with React Native, Flutter, and Android. Always exploring new tools & tech in mobile development.
+Hi, I’m Yash Bhalodiya! 👋
+I’m really passionate about building mobile apps, especially with React Native. I enjoy creating clean, user-friendly apps and love exploring new tools and technologies. Whether it’s working with APIs, improving app performance, or just trying out new ideas — I genuinely enjoy the process.
+
+Right now, I’m focused on growing as a mobile developer, learning new things every day, and always open to adapting to new challenges in tech.
 
 
 ## 🌐 Socials:
